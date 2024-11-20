@@ -1,0 +1,12 @@
+E:\DevTips\productive-web-api-development-with-fast-endpoints-and-vertical-slice-architecture-in-dotnet\ShippingService.Domain\bin\Debug\net8.0\ShippingService.Domain.deps.json
+E:\DevTips\productive-web-api-development-with-fast-endpoints-and-vertical-slice-architecture-in-dotnet\ShippingService.Domain\bin\Debug\net8.0\ShippingService.Domain.dll
+E:\DevTips\productive-web-api-development-with-fast-endpoints-and-vertical-slice-architecture-in-dotnet\ShippingService.Domain\bin\Debug\net8.0\ShippingService.Domain.pdb
+E:\DevTips\productive-web-api-development-with-fast-endpoints-and-vertical-slice-architecture-in-dotnet\ShippingService.Domain\obj\Debug\net8.0\ShippingService.Domain.csproj.AssemblyReference.cache
+E:\DevTips\productive-web-api-development-with-fast-endpoints-and-vertical-slice-architecture-in-dotnet\ShippingService.Domain\obj\Debug\net8.0\ShippingService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevTips\productive-web-api-development-with-fast-endpoints-and-vertical-slice-architecture-in-dotnet\ShippingService.Domain\obj\Debug\net8.0\ShippingService.Domain.AssemblyInfoInputs.cache
+E:\DevTips\productive-web-api-development-with-fast-endpoints-and-vertical-slice-architecture-in-dotnet\ShippingService.Domain\obj\Debug\net8.0\ShippingService.Domain.AssemblyInfo.cs
+E:\DevTips\productive-web-api-development-with-fast-endpoints-and-vertical-slice-architecture-in-dotnet\ShippingService.Domain\obj\Debug\net8.0\ShippingService.Domain.csproj.CoreCompileInputs.cache
+E:\DevTips\productive-web-api-development-with-fast-endpoints-and-vertical-slice-architecture-in-dotnet\ShippingService.Domain\obj\Debug\net8.0\ShippingService.Domain.dll
+E:\DevTips\productive-web-api-development-with-fast-endpoints-and-vertical-slice-architecture-in-dotnet\ShippingService.Domain\obj\Debug\net8.0\refint\ShippingService.Domain.dll
+E:\DevTips\productive-web-api-development-with-fast-endpoints-and-vertical-slice-architecture-in-dotnet\ShippingService.Domain\obj\Debug\net8.0\ShippingService.Domain.pdb
+E:\DevTips\productive-web-api-development-with-fast-endpoints-and-vertical-slice-architecture-in-dotnet\ShippingService.Domain\obj\Debug\net8.0\ref\ShippingService.Domain.dll

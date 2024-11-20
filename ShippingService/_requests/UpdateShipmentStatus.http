@@ -1,0 +1,23 @@
+### Process Shipment
+POST {{host}}/api/shipments/process/09855441
+Content-Type: application/json
+
+### Dispatch Shipment
+POST {{host}}/api/shipments/dispatch/09855441
+Content-Type: application/json
+
+### Transit Shipment
+POST {{host}}/api/shipments/transit/09855441
+Content-Type: application/json
+
+### Deliver Shipment
+POST {{host}}/api/shipments/deliver/09855441
+Content-Type: application/json
+
+### Receive Shipment
+POST {{host}}/api/shipments/receive/09855441
+Content-Type: application/json
+
+### Cancel Shipment
+POST {{host}}/api/shipments/cancel/09855441
+Content-Type: application/json

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NVSsrM5UVTI=",
+  "success": true,
+  "projectFilePath": "E:\\DevTips\\productive-web-api-development-with-fast-endpoints-and-vertical-slice-architecture-in-dotnet\\ShippingService.Domain\\ShippingService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fgama\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

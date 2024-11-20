@@ -1,0 +1,24 @@
+﻿### Create Order
+POST {{host}}/api/orders
+Content-Type: application/json
+
+{
+    "customerId": "eb417345-39c6-4d53-a96b-1ab7c506c466",
+    "items": [
+        {
+            "productName": "Acer Nitro 5",
+            "quantity": 1
+        },
+        {
+            "productName": "Predator Helios Neo 16/18",
+            "quantity": 2
+        }
+    ],
+    "shippingAddress": {
+        "street": "123 Main St",
+        "city": "Springfield",
+        "zip": "12345"
+    },
+    "carrier": "Modern Delivery",
+    "receiverEmail": "customer@example.com"
+}

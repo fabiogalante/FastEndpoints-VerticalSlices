@@ -1,0 +1,10 @@
+﻿### Create Customer
+POST {{host}}/api/customers
+Content-Type: application/json
+
+{
+    "firstName": "Anton",
+    "lastName": "Martyniuk",
+    "email": "anton@test.com",
+    "phoneNumber": "+1234567890"
+}
